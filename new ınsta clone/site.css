@@ -1,0 +1,104 @@
+body {
+  
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+    }
+  
+#arama {
+    margin: 250px;
+    margin-left: 622px;
+}
+.kalas {
+
+margin-left: 50px;
+}
+.input{
+    margin: 50px;
+}
+ 
+#navbare {
+    border-style: groove;
+    margin-left: 20px;
+  
+   position: fixed;
+   z-index: 1;
+   
+  
+}
+#anasayfa{
+    margin-left: 400px;
+    padding: 1%;
+  
+}
+.logom {
+    padding-left: 10px;
+}
+#profil {
+margin-left: 580px;
+margin-top: -3100px; 
+padding: 1%; 
+text-align: center;
+}
+
+    
+#story {
+    width: 69%;
+    height: 120px;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+    border-radius: 2px;
+    padding: 30px;
+    padding-right: 1px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    overflow-x: auto;
+    margin-top: 70px;
+ 
+    
+}
+#stryfoto {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 3px;
+    background: linear-gradient(45deg, rgb(255,230,0), rgb(255,0,128) 80%);
+    margin-left: 5px;
+}
+    
+#card1 {
+    margin: 30px;
+}
+
+#kucuk {
+   
+    border-radius: 50%;
+  
+}
+#sembol{
+    margin: 3px;
+    
+}
+#fotoustu {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    border-radius: 50%;
+   
+}
+#kaydet {
+    margin-left: 314px;
+    
+}
+.blok{
+    display: block;
+  padding: 7px;
+
+}
+#kımatmıs {
+   margin-left: 35px;
+  margin-top: -32px;
+}
